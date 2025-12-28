@@ -10,25 +10,25 @@ import { PageWrapper } from '../components/PageWrapper';
 const MOBILE_HERO_IMAGES = [
   {
     id: 1,
-    src: "https://www.dropbox.com/scl/fi/a6045w4qdjvzln4x19llh/4ccb5a939e96b7ea358f3c6fbddee72a.jpg?rlkey=2lhkqiy8kcml2focibw8rdkm0&st=gjf1t91p&raw=1",
+    src: "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/4ccb5a939e96b7ea358f3c6fbddee72a.webp",
     className: "top-4 left-4 w-32 aspect-[3/4] rotate-[-6deg]", // Fully visible top-left
     initial: { opacity: 0, x: -20, y: -20 }
   },
   {
     id: 2,
-    src: "https://www.dropbox.com/scl/fi/0phabztda6apgp3914le3/a5c73c9ee7eee681cb06640ad2f9f8ea.jpg?rlkey=ketz3xw5miwna4rwqkz6h1rxg&st=bytxxask&raw=1",
+    src: "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/a5c73c9ee7eee681cb06640ad2f9f8ea.webp",
     className: "bottom-32 right-4 w-32 aspect-[3/4] rotate-[6deg]", // Fully visible bottom-right
     initial: { opacity: 0, x: 20, y: 20 }
   },
   {
     id: 3,
-    src: "https://www.dropbox.com/scl/fi/8gemhj5rozca0c8cgzh1k/ce4a058a1b081630fb689cacf16943b3.jpg?rlkey=737rbix15hdqzhfve356hmcd6&st=c403161t&raw=1",
+    src: "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/ce4a058a1b081630fb689cacf16943b3.webp",
     className: "top-20 -right-16 w-32 aspect-[3/4] rotate-[12deg] opacity-60", // Partially visible top-right
     initial: { opacity: 0, x: 20, y: -20 }
   },
   {
     id: 4,
-    src: "https://www.dropbox.com/scl/fi/ymc1k57eubiill7tivnws/e0d2660716031d5d70fbce7bfb66d911.jpg?rlkey=xn4ysbyym181m537hsrqhlqz1&st=qhvfvd3v&raw=1",
+    src: "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/e0d2660716031d5d70fbce7bfb66d911.webp",
     className: "bottom-48 -left-16 w-32 aspect-[3/4] rotate-[-12deg] opacity-60", // Partially visible bottom-left
     initial: { opacity: 0, x: -20, y: 20 }
   }
@@ -39,7 +39,7 @@ const HERO_ITEMS = [
   {
     id: 1,
     title: "Seasonal Crudo",
-    src: "https://www.dropbox.com/scl/fi/a6045w4qdjvzln4x19llh/4ccb5a939e96b7ea358f3c6fbddee72a.jpg?rlkey=2lhkqiy8kcml2focibw8rdkm0&st=gjf1t91p&raw=1",
+    src: "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/4ccb5a939e96b7ea358f3c6fbddee72a.webp",
     className: "md:top-[22vh] md:left-[4%] md:w-[20vw] w-full max-w-[320px] mx-auto",
     rotation: "md:-rotate-[12deg] -rotate-2",
     delay: 0.3
@@ -47,7 +47,7 @@ const HERO_ITEMS = [
   {
     id: 2,
     title: "Smoked Duck Breast",
-    src: "https://www.dropbox.com/scl/fi/0phabztda6apgp3914le3/a5c73c9ee7eee681cb06640ad2f9f8ea.jpg?rlkey=ketz3xw5miwna4rwqkz6h1rxg&st=bytxxask&raw=1",
+    src: "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/a5c73c9ee7eee681cb06640ad2f9f8ea.webp",
     className: "md:top-[26vh] md:right-[4%] md:w-[19vw] w-full max-w-[320px] mx-auto",
     rotation: "md:rotate-[12deg] rotate-2",
     delay: 0.4
@@ -55,7 +55,7 @@ const HERO_ITEMS = [
   {
     id: 3,
     title: "Tuna Tartare",
-    src: "https://www.dropbox.com/scl/fi/8gemhj5rozca0c8cgzh1k/ce4a058a1b081630fb689cacf16943b3.jpg?rlkey=737rbix15hdqzhfve356hmcd6&st=c403161t&raw=1",
+    src: "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/ce4a058a1b081630fb689cacf16943b3.webp",
     className: "md:top-[82vh] md:left-[8%] md:w-[22vw] w-full max-w-[320px] mx-auto",
     rotation: "md:-rotate-[8deg] -rotate-1",
     delay: 0.5
@@ -63,7 +63,7 @@ const HERO_ITEMS = [
   {
     id: 4,
     title: "Garden Harvest",
-    src: "https://www.dropbox.com/scl/fi/ymc1k57eubiill7tivnws/e0d2660716031d5d70fbce7bfb66d911.jpg?rlkey=xn4ysbyym181m537hsrqhlqz1&st=qhvfvd3v&raw=1",
+    src: "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/e0d2660716031d5d70fbce7bfb66d911.webp",
     className: "md:top-[88vh] md:right-[6%] md:w-[21vw] w-full max-w-[320px] mx-auto",
     rotation: "md:rotate-[10deg] rotate-1",
     delay: 0.6
@@ -72,7 +72,7 @@ const HERO_ITEMS = [
 
 export const Menu: React.FC = () => {
   const containerRef = useRef<HTMLDivElement>(null);
-  const HERO_BG = "https://www.dropbox.com/scl/fi/dl5n514clmfrolb2bjizr/5652.jpg?rlkey=r389p746jzlqsu9xbsmwogu38&st=l9uk3p26&raw=1";
+  const HERO_BG = "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/5652.webp";
   
   const { scrollY } = useScroll();
   

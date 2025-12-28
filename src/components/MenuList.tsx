@@ -16,7 +16,7 @@ export const MENU_DATA: Record<string, Array<{ name: string; desc: string; price
     { name: "Torched Salmon Belly", desc: "Ponzu, scallion, sesame oil, lime zest", price: "$18", img: "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=500&auto=format&fit=crop&q=60" },
     { name: "Spicy Bluefin Tuna", desc: "Cucumber, spicy mayo, togarashi, micro greens", price: "$22", img: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=500&auto=format&fit=crop&q=60" },
     { name: "Wagyu Beef Roll", desc: "A5 Wagyu, truffle oil, asparagus, gold leaf", price: "$32", img: "https://images.unsplash.com/photo-1611143669185-af224c5e3252?w=500&auto=format&fit=crop&q=60" },
-    { name: "King Crab California", desc: "Real king crab, avocado, cucumber, tobiko", price: "$26", img: "https://www.dropbox.com/scl/fi/rdvn41hmb984ytw1q5ees/74106c42e92b63a43f8221bc580317ee.jpg?rlkey=htsuysy13rue5xxuao3vbjmgd&st=t7vbac1f&raw=1" },
+    { name: "King Crab California", desc: "Real king crab, avocado, cucumber, tobiko", price: "$26", img: "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/74106c42e92b63a43f8221bc580317ee.webp" },
   ],
   sashimi: [
     { name: "Hamachi Carpaccio", desc: "Yellowtail, jalapeño, yuzu soy, cilantro", price: "$24", img: "https://images.unsplash.com/photo-1534482421-64566f976cfa?w=500&auto=format&fit=crop&q=60" },

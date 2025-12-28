@@ -13,7 +13,7 @@ import { AboutTestimonialsSection } from '../components/AboutTestimonialsSection
 
 export const About: React.FC = () => {
   // Updated hero background image
-  const HERO_BG = "https://www.dropbox.com/scl/fi/7qyjp3w8pyesaryx453cb/209813e33c5f411ddfd49d98eef34c14.jpg?rlkey=7gkf03o6yzut9o2llak3h29o2&st=to9ilryb&raw=1";
+  const HERO_BG = "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/209813e33c5f411ddfd49d98eef34c14.webp";
 
   return (
     <PageWrapper>

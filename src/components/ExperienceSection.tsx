@@ -3,15 +3,15 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 
 const IMAGES = [
-  "https://www.dropbox.com/scl/fi/kuxek0r56m4x98vz2pvsw/various-dessert-served-plate.jpg?rlkey=02gnl02zfh4406gcmg0htxq3g&st=qf29k34b&raw=1",
-  "https://www.dropbox.com/scl/fi/dkwhqpknj9vx4a3v33o9p/shish-kebab-with-chicken-fillet-rice-garnish-accompaned-by-glass-white-wine.jpg?rlkey=s7hgdrtxbbbhsbpp19tuwp6g9&st=quaqael1&raw=1",
-  "https://www.dropbox.com/scl/fi/c7xgkzq5yy23outlaz61o/pie-with-ground-beef-filling-rolls-puff-pastry-with-meat-plate.jpg?rlkey=xuere6v2l8iyitumv412zqxrc&st=u5s3roxf&raw=1",
-  "https://www.dropbox.com/scl/fi/kc6rsmihhxlk2ohcx78gb/mushrooms-sauce-with-potato-mash.jpg?rlkey=44wzxwy1l8xi1j636lkw21w98&st=0s7m67ca&raw=1",
-  "https://www.dropbox.com/scl/fi/iwff1gyo8ngsa5m5rjpkv/mixed-salad-topped-with-lime-slices.jpg?rlkey=kqw16mg6b5kqks6fs83fbv5bc&st=1tfyts88&raw=1",
-  "https://www.dropbox.com/scl/fi/v1ud3cnmvuvvbosclk9ou/meatballs-sesame-seeds-with-decor-herbs-carrots-mandarin-slices.jpg?rlkey=67bryeg9lysnqsck3p5usb9pp&st=zzp4mh5n&raw=1",
-  "https://www.dropbox.com/scl/fi/fbyd923w3sk0b3kpmgovj/fried-chicken-pieces-lemon.jpg?rlkey=nyut29vq3ayypfcabvoai80om&st=isnvc569&raw=1",
-  "https://www.dropbox.com/scl/fi/sdals0pe6ib1wk6t2ku8u/elegant-dessert-dark-plate-with-decorative-flowers.jpg?rlkey=hlnqipv3vtxual9om0dbu3u7s&st=mzxyalth&raw=1",
-  "https://www.dropbox.com/scl/fi/myfoenwwh10lpt3hvj1lg/delicious-carpaccio-plate-restaurant.jpg?rlkey=sjd1vg21d02xygdmbtcnf45rb&st=vofssmcy&raw=1"
+  "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/various-dessert-served-plate.webp",
+  "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/shish-kebab-with-chicken-fillet-rice-garnish-accompaned-by-glass-white-wine.webp",
+  "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/pie-with-ground-beef-filling-rolls-puff-pastry-with-meat-plate.webp",
+  "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/mushrooms-sauce-with-potato-mash.webp",
+  "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/mixed-salad-topped-with-lime-slices.webp",
+  "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/meatballs-sesame-seeds-with-decor-herbs-carrots-mandarin-slices.webp",
+  "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/fried-chicken-pieces-lemon.webp",
+  "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/elegant-dessert-dark-plate-with-decorative-flowers.webp",
+  "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/delicious-carpaccio-plate-restaurant.webp"
 ];
 
 const TICKER_ITEMS = [...IMAGES, ...IMAGES, ...IMAGES, ...IMAGES];

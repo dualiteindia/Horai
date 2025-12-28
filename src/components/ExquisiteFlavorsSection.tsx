@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 
 export const ExquisiteFlavorsSection: React.FC = () => {
-  const BACKGROUND_IMAGE = "https://www.dropbox.com/scl/fi/txwv1mzn491iefqa43bs1/zhg4CQQsNHqANL4P4ykqogUQ.avif?rlkey=kis491mgb6bhobcv0syytxeov&st=oassme63&raw=1";
+  const BACKGROUND_IMAGE = "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/zhg4CQQsNHqANL4P4ykqogUQ.webp";
 
   return (
     <section className="relative w-full h-[80vh] md:h-[90vh] overflow-hidden flex items-center justify-center bg-rich-black">

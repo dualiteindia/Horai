@@ -7,19 +7,19 @@ const TESTIMONIALS = [
     id: 1,
     quote: "Hōrai completely redefined my expectations of sushi. Every roll felt intentional — the balance of freshness, flavor, and artistry was flawless.",
     author: "Carl S.",
-    image: "https://www.dropbox.com/scl/fi/waa65qgjkkqcae2lkiwga/2148283884.jpg?rlkey=uqqt72zv2bi7t101e6ludwsmc&st=1e8vb7tg&raw=1"
+    image: "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/2148283884.webp"
   },
   {
     id: 2,
     quote: "Dining at Hōrai felt like stepping into a carefully composed story. From the first course to the final plate, every detail was thoughtful and refined.",
     author: "Aanya R.",
-    image: "https://www.dropbox.com/scl/fi/1dkb4n2rt1xf8058fxcqs/336.jpg?rlkey=f220avhnnot9qlnwz29yp8qki&st=yckpu7i7&raw=1"
+    image: "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/336.webp"
   },
   {
     id: 3,
     quote: "Hōrai has an elegance that’s rare to find. The flavors were bold yet beautifully balanced, and the service felt intuitive rather than performative.",
     author: "Sofia M.",
-    image: "https://www.dropbox.com/scl/fi/wbe2mo8uv9p04ias1403t/2572.jpg?rlkey=s4h9i5fznpq2pz73qf8ra5o3k&st=0o8qw73g&raw=1"
+    image: "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/2572.webp"
   }
 ];
 

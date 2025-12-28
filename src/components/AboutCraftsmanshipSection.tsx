@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 export const AboutCraftsmanshipSection: React.FC = () => {
-  const IMAGE_SRC = "https://www.dropbox.com/scl/fi/gluov7i380co8ebpc1ps7/1ea02269b3b13b80328c24c97dfa3a38.jpg?rlkey=88eymhlmbjpncdluhdcim3px0&st=7t4wisy0&raw=1";
+  const IMAGE_SRC = "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/1ea02269b3b13b80328c24c97dfa3a38.webp";
 
   return (
     <section className="relative w-full bg-rich-black overflow-hidden">

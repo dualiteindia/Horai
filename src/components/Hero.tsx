@@ -4,7 +4,7 @@ import { VideoBackground } from './VideoBackground';
 import { Navbar } from './Navbar';
 
 export const Hero: React.FC = () => {
-  const VIDEO_SRC = "https://www.dropbox.com/scl/fi/bycnkjiwyx0zrx1b026bu/Luxury_Asian_Fine_Dining_Film.mp4?rlkey=x2een7f5xaxfaeartn8p3f43m&st=6zw47v81&raw=1";
+  const VIDEO_SRC = "https://69sfgmk1pv2omedb.public.blob.vercel-storage.com/new-templates/horai/Luxury_Asian_Fine_Dining_Film.webm";
 
   return (
     <div className="relative w-full h-screen overflow-hidden bg-rich-black text-cream-50">
